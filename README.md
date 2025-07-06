@@ -12,7 +12,7 @@ The project received **special recognition** as one of the standout works in the
 
 ## Workflow
 
-- **Data source**: Excel files with public data - provided by the foundation
+- **Data source**: Excel files with public data - provided by the foundation (folder `data/`)
 - **Data preparation**: Power Query in Excel  
 - **Exploratory Data Analysis**: MS Excel
 - **Visualization**: Tableau Public  
